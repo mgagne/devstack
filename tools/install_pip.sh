@@ -60,4 +60,6 @@ uninstall_package python-pip
 
 install_get_pip
 
+sudo pip install --upgrade setuptools
+
 get_versions
